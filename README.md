@@ -10,8 +10,8 @@ The project is created in NMCNTT course, FIT, HCMUS, VN.
 
 ## How to play
 ```
-- Press __A__ or __◄__ (left arrow) to jump the top T-Rex
-- Press __L__ or __►__ (right arrow) to jump the bottom T-Rex
+- Press A or ◄ (left arrow) to jump the top T-Rex
+- Press L or ► (right arrow) to jump the bottom T-Rex
 ```
 
 ## Gameplay
