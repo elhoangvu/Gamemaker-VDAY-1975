@@ -16,7 +16,7 @@ The project is created in NMCNTT course, FIT, HCMUS, VN.
 
 ## Gameplay
 ```
-- Avoid bomb
+- Avoid bombs to maintain the game
 - Ram enemies to move forward
 - Jump and collect superbatman item to transform Super T-Rex. Super T-Rex can be immortal with bomb.
 - Move any T-Rex to the right screen of game scene to win.
